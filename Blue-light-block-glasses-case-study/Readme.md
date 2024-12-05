@@ -91,7 +91,7 @@ By effectively communicating these key benefits, features, and unique selling po
 
 ## [Gunner](https://gunnar.com/collections/gaming-glasses)
 
-### Pros:
+Pros:
 -----
 
 *   **Reduces eye strain and fatigue:** Many users reported a significant decrease in eye strain, headaches, and tired eyes.
@@ -100,13 +100,13 @@ By effectively communicating these key benefits, features, and unique selling po
 *   **Stylish and comfortable:** Many reviews praised the comfort and stylish design of the glasses.
 *   **Effective blue light filtering:** Users reported noticeable reduction in blue light, especially at night.
 
-### Cons:
+Cons:
 -----
 
 *   **Price:** Some users found the price to be a bit high.
 *   **Quality control issues:** A few reviews mentioned receiving opened or damaged products.
 
-### Suggestions for Improvement:
+Suggestions for Improvement:
 ----------------------------
 
 Based on the feedback, consider the following improvements:

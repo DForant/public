@@ -6,4 +6,4 @@ For complete details of the different projects added to this repo please [visit 
 
 ## Project Read Me Files
 
-[Blue Light Blocking Case Study Glasses](Blue-light-block-glasses-case-study/Readme.md)
+[Blue Light Blocking Glasses Case Study](Blue-light-block-glasses-case-study/Readme.md)

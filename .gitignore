@@ -1,0 +1,19 @@
+# Ignore everything in the root directory
+*
+# Except the wp-content directory and its themes and plugins subdirectories
+!/wp-content/
+# But ignore everything else in wp-content
+/wp-content/*
+
+# Except themes and plugins directories
+!/wp-content/themes/
+!/wp-content/plugins/
+
+#include the gitignore file itself
+!.gitignore
+
+# Include the following themes
+!/wp-content/themes/thechucklecanvas/
+
+# Include the following plugins
+!/wp-content/pluging/woocommerce/

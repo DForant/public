@@ -76,6 +76,6 @@ This project is licensed under the GPL version 2 or later.
 
 ### Credits
 
-* **Developed by:** [Your Name Here]
-* **GitHub Repository:** [Link to your GitHub Repo]
-* **Live Demo:** [Link to The Chuckle Canvas live store]
+* **Developed by:** Dean Forant
+* **GitHub Repository:** [\[Link to your GitHub Repo\]](https://github.com/DForant/the-chuckle-canvas)
+* **Live Demo:** Comming Soon

@@ -17,3 +17,6 @@
 
 # Include the following plugins
 !/wp-content/pluging/woocommerce/
+
+# Include Miscellaneous needed files or directories
+!/README.md
